@@ -10,7 +10,8 @@ package pattern;
  * @author bony
  */
 public class pattern1 implements patterninterface {
-
+    public pattern1(){
+    }
     @Override
     public void showpattren(int n) {
         System.out.print("problem no:01 = ");
