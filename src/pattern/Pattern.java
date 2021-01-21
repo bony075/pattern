@@ -17,6 +17,13 @@ public class Pattern {
     /**
      * @param args the command line arguments
      */
+    
+    void Test()
+    {
+        
+    }
+    
+    
     public static void main(String[] args) {
         // TODO code application logic here
         Scanner s= new Scanner(System.in);
