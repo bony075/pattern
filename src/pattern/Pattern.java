@@ -20,7 +20,7 @@ public class Pattern {
     
     void Test()
     {
-        
+        System.out.println("Test");
     }
     
     
